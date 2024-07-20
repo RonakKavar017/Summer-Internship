@@ -126,6 +126,5 @@ Day 5:
 
 Made final adjustments to enhance functionality and usability on the About Us page, ensuring that all elements work seamlessly and provide a positive user experience​.
 
-🤝 Connect with Me Email: darshitkachhadiya19@gmail.com,22aiml016@charusat.edu.in
-
+🤝 Connect with Me Email: Vaibhavkavar2010@gmail.com , 22AIML017@charusat.edu.in
 Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
